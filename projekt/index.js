@@ -1,1 +1,1 @@
-alert("salom bu men xakimdagi sayt")
+
