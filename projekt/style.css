@@ -1,0 +1,23 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f0f4f8;
+}
+
+.navbar-nav .nav-link {
+  color: #ccc !important;
+}
+
+.navbar-nav .nav-link.active,
+.navbar-nav .nav-link:hover {
+  color: #ffc107 !important;
+  border-bottom: 2px solid #ffc107;
+}
+
+.hero .text-area h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+
+.hero .text-area p {
+  font-size: 1.1rem;
+}
